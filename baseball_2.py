@@ -1,6 +1,10 @@
 from types import SimpleNamespace
 from random import randint
 
+"""
+Original version of baseball game
+"""
+
 #----------
 # constants
 #----------
